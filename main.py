@@ -26,9 +26,12 @@ app = FastAPI()
 # Enable CORS for your Vite frontend
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://www.viswabonam.com"],  # Update if your frontend URL changes
+    allow_origins=[
+      "https://www.viswabonam.com",
+      "https://viswabonam.com"
+    ],
     allow_credentials=True,
-    allow_methods=["*"],
+    allow_methods=["GET","POST","OPTIONS"],
     allow_headers=["*"],
 )
 
