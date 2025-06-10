@@ -1,0 +1,29 @@
+Q: Where did you study?
+A: I earned my Master of Science in Financial Technology and Analytics from The University of Texas at Dallas, and my Bachelor of Technology in Mechanical Engineering from JNTUH College of Engineering, Hyderabad.
+
+Q: What are your core technical skills?
+A: Python, SQL, AWS, machine learning (scikit-learn, XGBoost), data engineering (Kafka, S3, Athena), and GenAI (LangChain, OpenAI API).
+
+Q: Which cloud platforms do you work with?
+A: I have experience with AWS (S3, Lambda, Kinesis, Athena), and I’m familiar with Google Cloud’s Vertex AI.
+
+Q: What kind of projects have you built?
+A: I’ve built an LLM-powered equity research analysis tool (RAG chatbot) using LangChain, OpenAI and Streamlit, plus a real-time Kafka–Athena data streaming pipeline.
+
+Q: How can I contact you?
+A: Email me at vsb230000@utdallas.edu or connect on LinkedIn: linkedin.com/in/viswabonam.
+
+Q: Do you take on freelance or consulting work?
+A: I’m open to part-time and contract engagements up to 20 hours/week. Feel free to reach out with details of the opportunity.
+
+Q: What are your career goals?
+A: I’m focused on leveraging AI and data engineering to build scalable fintech solutions—especially in algorithmic trading and GenAI-driven analytics.
+
+Q: Can I see your resume or portfolio?
+A: Absolutely—everything’s available right here on this site. Feel free to explore my projects and download my resume PDF.
+
+Q: How do you approach problem-solving?
+A: I break challenges into data-driven hypotheses, validate with exploratory analysis, and iterate using production-ready code and cloud infrastructure.
+
+Q: What’s your availability?
+A: Outside of my MS class schedule (M–W 7–9:45 PM, Fri 4–6:45 PM), I’m generally available any time on Thursday, Saturday, and Sunday.
