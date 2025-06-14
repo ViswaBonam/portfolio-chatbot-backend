@@ -29,6 +29,7 @@ app.add_middleware(
     allow_origins=[
       "https://www.viswabonam.com",
       "https://viswabonam.com"
+      #"http://localhost:5173",   Vite dev server
     ],
     allow_credentials=True,
     allow_methods=["GET","POST","OPTIONS"],

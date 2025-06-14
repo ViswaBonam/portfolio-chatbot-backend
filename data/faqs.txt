@@ -1,29 +1,44 @@
-Q: Where did you study?
-A: I earned my Master of Science in Financial Technology and Analytics from The University of Texas at Dallas, and my Bachelor of Technology in Mechanical Engineering from JNTUH College of Engineering, Hyderabad.
+FAQ: Viswa Sai Ammiraju Bonam
 
-Q: What are your core technical skills?
-A: Python, SQL, AWS, machine learning (scikit-learn, XGBoost), data engineering (Kafka, S3, Athena), and GenAI (LangChain, OpenAI API).
+Q1: What is your current academic program and when will you graduate?
+A: I pursued a Master of Science in Financial Technology and Analytics at The University of Texas at Dallas, with a GPA of 3.830/4. I graduated in May 2025.
 
-Q: Which cloud platforms do you work with?
-A: I have experience with AWS (S3, Lambda, Kinesis, Athena), and I’m familiar with Google Cloud’s Vertex AI.
+Q2: What is your educational background?
+A: I hold a Bachelor of Technology in Mechanical Engineering from JNTUH College of Engineering, Hyderabad, India, with a GPA of 3.7/4.
 
-Q: What kind of projects have you built?
-A: I’ve built an LLM-powered equity research analysis tool (RAG chatbot) using LangChain, OpenAI and Streamlit, plus a real-time Kafka–Athena data streaming pipeline.
+Q3: What technical skills do you have?
+A: I am proficient in Python, SQL, R, and Java. I have experience with tools and platforms like AWS, Azure, Apache Spark, Kafka, Cassandra, Scikit-learn, TensorFlow, LangChain, and FAISS. I also work with data visualization tools like Power BI, Tableau, Matplotlib, and Seaborn.
 
-Q: How can I contact you?
-A: Email me at vsb230000@utdallas.edu or connect on LinkedIn: linkedin.com/in/viswabonam.
+Q4: What are your key projects?
+A: 
+- **American Express Credit Default Prediction**: Built models using XGBoost and Neural Networks, achieving a 94.7% AUC score. Applied credit scoring strategies and feature engineering to reduce default rates and enhance model reliability.
+- **Equity Insight Chatbot**: Developed a news-driven research tool using LangChain, OpenAI, and Streamlit to analyze financial news with RAG pipelines and FAISS, improving query accuracy and equity research efficiency.
+- **Real-Time Stock Data Analytics on AWS**: Streamed high-frequency data using Kafka and Zookeeper, storing it in S3 and querying it with Athena. Automated the entire pipeline with 99.9% uptime.
+- **Bitcoin Return Prediction**: Used multivariate financial indicators and SHAP analysis to build an XGBoost model for predicting returns, increasing accuracy and interpretability.
+- **Stock Ranking with SEC Filings**: At UTDSOM Investment Corp, developed models to predict quarterly stock returns using SEC filings, increasing portfolio return by 10% and boosting model accuracy by 20%.
 
-Q: Do you take on freelance or consulting work?
-A: I’m open to part-time and contract engagements up to 20 hours/week. Feel free to reach out with details of the opportunity.
+Q5: What industry experience do you have?
+A: 
+- At **UTDSOM Investment Corporation**, I worked as a Financial Analyst and Machine Learning Specialist, where I improved prediction accuracy of stock returns and applied financial modeling techniques to enhance portfolio returns.
+- As an **Associate Database Developer** at SkyEss Techno Solutions, I optimized MySQL databases and integrated backend Python code into UI systems, reducing data retrieval time and enhancing reporting accuracy.
 
-Q: What are your career goals?
-A: I’m focused on leveraging AI and data engineering to build scalable fintech solutions—especially in algorithmic trading and GenAI-driven analytics.
+Q6: What are your current career goals?
+A: I aim to work in roles that combine financial technology, machine learning, and data analytics, particularly in the fintech, AI, or quant finance sectors.
 
-Q: Can I see your resume or portfolio?
-A: Absolutely—everything’s available right here on this site. Feel free to explore my projects and download my resume PDF.
+Q7: Do you have any student or volunteering experience?
+A: 
+- Starbucks Volunteer at UTD (since Sep 2023)
+- Robin Hood Army Volunteer, Hyderabad (Mar–May 2023)
+- Student Coordinator at JNTUH College of Engineering (2017–2020)
 
-Q: How do you approach problem-solving?
-A: I break challenges into data-driven hypotheses, validate with exploratory analysis, and iterate using production-ready code and cloud infrastructure.
+Q8: What are your interests beyond academics?
+A: I'm interested in animation and content creation. I explored Adobe After Effects and Audition under a personal project idea called "Dawdoodle Animations" and enjoy learning visual storytelling.
 
-Q: What’s your availability?
-A: Outside of my MS class schedule (M–W 7–9:45 PM, Fri 4–6:45 PM), I’m generally available any time on Thursday, Saturday, and Sunday.
+Q9: What is your availability for part-time work?
+A: While my primary focus is full-time roles, I am open to impactful internship or part-time opportunities if they align with my long-term career goals.
+
+Q10: What can this chatbot help with?
+A: This chatbot answers questions based on my resume and FAQ document. You can ask about my experience, education, projects, skills, interests, and work availability.
+
+Q11: What is your work authorization or sponsorship status?
+A: I am on an F-1 visa with OPT (Optional Practical Training) and eligible to work in the United States for up to 3 years in STEM fields without requiring H-1B sponsorship during that period. I am authorized to begin full-time employment immediately.
